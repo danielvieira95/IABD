@@ -19,3 +19,7 @@ https://docs.google.com/forms/d/1m9bqCoy01QxlwBE6sZDxdGknAYtTV9momWaP3OUFpUQ/edi
 Atividade 5 - Aprendizado não supervisionado - Kmeans
 
 https://docs.google.com/forms/d/1VXsnxLbCIpcIsv9SFtNzUZy_jnJ66lZHipoWg895hHE/edit
+
+Atividade 6 - Aprendizado não supervisionado - Isolation Forest e DBScan
+
+https://docs.google.com/forms/d/1UiRxNW4JUR5ewI_Haj1kL5me0h1JrkSuEQ3iXuPLnW4/edit
